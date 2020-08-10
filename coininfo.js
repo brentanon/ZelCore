@@ -401,6 +401,50 @@ const coininfo = {
       },
     },
   },
+  Whale: {
+    description: "THE WORLD'S FIRST SOCIAL CURRENCY BACKED BY HIGH-VALUE ASSETS. We have created the world's first social currency with a foundational valuation that is underpinned by some of the world's most valuable non-fungible tokens (NFTs).",
+    total_supply: 3808795 ,
+    circulating_supply: 160737039,
+    links: {
+      homepage: [
+        "https://whale.me/",
+        "",
+        "",
+      ],
+      explorer: [
+        "https://etherscan.io/token/0x9355372396e3F6daF13359B7b607a3374cc638e0",
+        "https://ethplorer.io/address/0x9355372396e3f6daf13359b7b607a3374cc638e0",
+        "",
+        "",
+        "",
+      ],
+      official_forum_url: [
+        "",
+        "",
+        "",
+      ],
+      chat_url: [
+        "",
+        "",
+        "",
+      ],
+      announcement_url: [
+        "https://twitter.com/WhaleShark_Pro",
+        "",
+      ],
+      twitter_screen_name: "https://twitter.com/WhaleShark_Pro",
+      facebook_username: "",
+      bitcointalk_thread_identifier: null,
+      telegram_channel_identifier: "",
+      subreddit_url: null,
+      repos_url: {
+        github: [
+          "",
+        ],
+        bitbucket: [],
+      },
+    },
+  },
   bitcoin: {
     description: "Bitcoin is the first successful internet money based on peer-to-peer technology; whereby no central bank or authority is involved in the transaction and production of the Bitcoin currency. It was created by an anonymous individual/group under the name, Satoshi Nakamoto. The source code is available publicly as an open source project, anybody can look at it and be part of the developmental process.\r\n\r\nBitcoin is changing the way we see money as we speak. The idea was to produce a means of exchange, independent of any central authority, that could be transferred electronically in a secure, verifiable and immutable way. It is a decentralized peer-to-peer internet currency making mobile payment easy, very low transaction fees, protects your identity, and it works anywhere all the time with no central authority or banks.\r\n\r\nBitcoin is design to have only 21 million BTC ever created, thus making it a deflationary currency. Bitcoin uses the <a href=\"https://www.coingecko.com/en?hashing_algorithm=SHA-256\">SHA-256</a> hashing algorithm with an average transaction confirmation time of 10 minutes. Miners today are mining Bitcoin using ASIC chip dedicated to only mining Bitcoin, and the hash rate has shot up to peta hashes.\r\n\r\nBeing the first successful online cryptography currency, Bitcoin has inspired other alternative currencies such as <a href=\"https://www.coingecko.com/en/coins/litecoin\">Litecoin</a>, <a href=\"https://www.coingecko.com/en/coins/peercoin\">Peercoin</a>, <a href=\"https://www.coingecko.com/en/coins/primecoin\">Primecoin</a>, and so on.\r\n\r\nThe cryptocurrency then took off with the innovation of the turing-complete smart contract by <a href=\"https://www.coingecko.com/en/coins/ethereum\">Ethereum</a> which led to the development of other amazing projects such as <a href=\"https://www.coingecko.com/en/coins/eos\">EOS</a>, <a href=\"https://www.coingecko.com/en/coins/tron\">Tron</a>, and even crypto-collectibles such as <a href=\"https://www.coingecko.com/buzz/ethereum-still-king-dapps-cryptokitties-need-1-billion-on-eos\">CryptoKitties</a>.",
     total_supply: 21000000,
